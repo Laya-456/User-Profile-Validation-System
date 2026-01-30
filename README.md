@@ -91,10 +91,7 @@ User Profile is INVALID
 ## How to Run the Program
 1. Clone or download this repository.
 2. Open the Python file in any Python-supported environment.
-3. Run the program using the command:
-```
-python user_profile_validation.py
-```
+3. Run the program 
 4. Enter the required inputs when prompted.
 
 ---
